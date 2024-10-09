@@ -162,7 +162,7 @@ bot = Bot(
     bot_token=BOT_TOKEN,
 )
 
-ubot = Ubot(name="ubot")
+ubot = Ubot(butter="ubot")
 
 
 from ubot.core.database import *
